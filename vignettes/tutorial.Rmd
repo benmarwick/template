@@ -26,7 +26,7 @@ documentation of the manuscript.  See [manuscripts/README] for more
 details about this functionality.  
 
 
-**Note**: This README is created programmatically from [manuscripts/tutorial.Rmd],
+**Note**: This README is created programmatically from [vignettes/tutorial.Rmd],
 so edit that file and not the README itself.  (This lets the README include 
 executed R code and keeps it in sync with an R package vignette).  
 
